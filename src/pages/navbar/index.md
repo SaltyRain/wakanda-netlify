@@ -1,14 +1,16 @@
 ---
 templateKey: navbar
 menuItems:
-  - label: home
+  - label: сми
     linkType: internal
-    linkURL: /
-  - label: about
+    linkURL: /media
+  - label: родителям
     linkType: internal
-    linkURL: /about
-  - label: past meetups
+    linkURL: /parents
+  - label: органам опеки
     linkType: internal
-    linkURL: /meetups
+    linkURL: /child-projection
+  - label: детям
+    linkURL: /children
 ---
 
